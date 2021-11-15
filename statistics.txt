@@ -1,0 +1,20 @@
+number of instances from Cause-Effect(e1,e2) is 107
+number of instances from Cause-Effect(e2,e1) is 46
+number of instances from Component-Whole(e1,e2) is 86
+number of instances from Component-Whole(e2,e1) is 45
+number of instances from Content-Container(e1,e2) is 62
+number of instances from Content-Container(e2,e1) is 51
+number of instances from Entity-Destination(e1,e2) is 137
+number of instances from Entity-Destination(e2,e1) is 20
+number of instances from Entity-Origin(e1,e2) is 108
+number of instances from Entity-Origin(e2,e1) is 30
+number of instances from Instrument-Agency(e1,e2) is 48
+number of instances from Instrument-Agency(e2,e1) is 69
+number of instances from Member-Collection(e1,e2) is 92
+number of instances from Member-Collection(e2,e1) is 48
+number of instances from Message-Topic(e1,e2) is 98
+number of instances from Message-Topic(e2,e1) is 48
+number of instances from Other is 235
+number of instances from Product-Producer(e1,e2) is 80
+number of instances from Product-Producer(e2,e1) is 90
+Total count:  1500
