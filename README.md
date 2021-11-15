@@ -20,7 +20,7 @@ In this shared task, training data was PERLEX, which is the translation of SemEv
 Evaluation set of the shared task consists of 1500 samples.
 
 ## Presentation
-You can also find my slides presented at this workshop.
+You can also find my slides presented at this workshop in this repository.
 
 ## Competition Website
 Our shared task was managed using the CodaLab competition platform for result submission. A total of 4 systems has been submitted for mono-lingual subtask.
